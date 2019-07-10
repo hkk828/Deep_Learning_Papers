@@ -1,6 +1,6 @@
 # Deep Learning Papers
 
-###### Auto-Encoding Variational Bayes (Diederik P. Kingma, Max Welling) : https://arxiv.org/abs/1312.6114 
+##### Auto-Encoding Variational Bayes (Diederik P. Kingma, Max Welling) : https://arxiv.org/abs/1312.6114 
 ###### An Introduction to Variational Autoencoders (Diederik P. Kingma, Max Welling) : https://arxiv.org/abs/1906.02691
 ###### Adam: A Method for Stochastic Optimization (Diederik P. Kingma, Jimmy Ba) : https://arxiv.org/abs/1412.6980
 ###### Generative Adversarial Networks (Ian J. Goodfellow et al) : https://arxiv.org/abs/1406.2661
